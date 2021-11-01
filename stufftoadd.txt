@@ -1,0 +1,12 @@
+This is a list of stuff I need to add to proper directories. 
+Basically a place for me to add stuff quickly when I don't have time to make a proper page for them. 
+Everything here is for review.
+
+
+https://www.togaware.com/linux/survivor/Wajig_Overview.html
+
+https://packages.debian.org/search?keywords=wajig
+
+https://wajig.togaware.com/
+
+https://wiki.debian.org/Wajig
