@@ -13,19 +13,24 @@ The following is a tutorial on how to reset your root user password in the event
 		You should now be at the root prompt.
 
 		```
-		root@ubuntu:~#
+
+			root@ubuntu:~#
+
+
 		```
 	</li>
 	<li>
 		From here, reset the root password with passwd
 		```
-		passwd root
 
-		Enter new UNIX password:
+			passwd root
 
-		Retype new UNIX password:
+			Enter new UNIX password:
 
-		Passwd: password updated successfully
+			Retype new UNIX password:
+
+			Passwd: password updated successfully
+
 
 		```
 		
