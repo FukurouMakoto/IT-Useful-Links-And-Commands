@@ -10,3 +10,5 @@ dism /Get-WimInfo /WimFile:\Path\to\wimfile.wim
 
 
 docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/take-inventory-of-an-image-or-component-using-dism?view=windows-11
+
+www.winhelponline.com/blog/iso-find-windows-build-version-edition-using-dism/0
