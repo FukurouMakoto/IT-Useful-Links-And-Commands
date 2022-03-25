@@ -1,4 +1,4 @@
-##### How to use Comet Backup
+# How to use Comet Backup
 
 
 The following is a guide for how to do various things using Comet Backup storage. 
