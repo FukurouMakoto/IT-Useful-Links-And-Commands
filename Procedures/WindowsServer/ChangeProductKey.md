@@ -9,8 +9,13 @@ https://blog.alschneiter.com/2015/06/02/use-dism-to-change-the-product-key/
 
 Note that the following code won't work with a MAK key:
 
+Get eligible upgrade options
+
 ```
-/dism /set-ServerEdition serverEdition /Productkey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX /accepteula
+dism /online /get-targeteditions
+```
+```
+dism /online /set-ServerEdition serverEdition /Productkey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX /accepteula
 ```
 
 In order to add your MAK product key to your server, you must do the following from an elevated command prompt:
